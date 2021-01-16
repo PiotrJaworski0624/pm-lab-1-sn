@@ -33,7 +33,7 @@ Odpowiedź:  Naciśnięcie przycisku powoduje zbyt szybką zmianę świateł dla
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Możliwe jest sterowanie stanem niskim diod LED, ponieważ domyślne nieskonfigurowane piny mikrokontrolera posiadają stan nieustalony.
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
